@@ -1,0 +1,21 @@
+body {
+  background-color: purple;
+}
+
+#score {
+  font-size: 20px;
+  margin: left;
+  float: left;
+  padding-left: 40px;
+}
+
+#timer {
+  font-size: 20px;
+  margin: right;
+  float: right;
+  padding-right: 40px;
+}
+
+#sketch {
+  color: greenyellow;
+}
